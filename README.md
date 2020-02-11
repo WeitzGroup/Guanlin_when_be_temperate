@@ -1,4 +1,4 @@
-# Code for "When be Temperate: On the Fitness Benefits of Lysis vs. Lysogeny"
+# Code for "When to be Temperate: On the Fitness Benefits of Lysis vs. Lysogeny"
 This code run both viral invasion analysis in parasite-free environments and endemic environments.
 
 ## Contact
